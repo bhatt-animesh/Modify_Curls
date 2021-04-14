@@ -1,5 +1,5 @@
 # Modify_Curls
-Mcurl 0.0.4
+Mcurl 0.0.1
 ================
 
 Mcurl is a HTTP basic library written in PHP, for human beings and has no dependencies, working with PHP 7.4+.
